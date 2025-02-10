@@ -1,0 +1,13 @@
+.slds-box {
+    border-radius: 0.5rem;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
+.slds-text-heading_medium {
+    color: #0070d2;
+}
+.slds-item {
+    background-color: #f4f6f9;
+    padding: 1rem;
+    margin-bottom: 0.5rem;
+    border-radius: 0.5rem;
+}
